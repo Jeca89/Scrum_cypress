@@ -1,0 +1,7 @@
+{
+    "baseUrl":"https://cypress.vivifyscrum-stage.com",
+    "env": {
+        "validUserMail": "jelena.marko2013@gmail.com",
+        "validUserPass": "1234test"
+    }
+}
