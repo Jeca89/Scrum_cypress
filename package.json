@@ -1,0 +1,19 @@
+{
+  "name": "scrum_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeca89/Scrum_cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeca89/Scrum_cypress/issues"
+  },
+  "homepage": "https://github.com/Jeca89/Scrum_cypress#readme"
+}
